@@ -990,7 +990,18 @@ nav ul li {
     text-shadow: 0px 1px 2px #fff;
 
 }
+#research2 {
+    background: url(../img/flip.jpg) repeat-y;
+    background-size: cover;
+    background-color: #000;
+    text-align: center;
+    padding-bottom: 4rem;
+    margin-bottom: 0;
+    color: #000;
+    width: 100%;
+    text-shadow: 0px 1px 2px #fff;
 
+}
 #research  .testimonial h2 {
     text-align: center;
 }
@@ -1088,7 +1099,7 @@ nav ul li {
 #essay .essay {
     text-align: center;
     max-width: 850px;
-    margin: 0 auto 2rem auto;
+    margin: 0 200 2rem auto;
     padding: 30px;
     background: rgba(255, 255, 255, 0.78);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -1136,6 +1147,7 @@ nav ul li {
 
 #essay .gallery-cell {
     width: 55%;
+    float: right;
 }
 
 #testimonials-content::before {
