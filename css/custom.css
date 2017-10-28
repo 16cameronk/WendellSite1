@@ -75,7 +75,7 @@ h2 {
 }
 
 
-h1:after {
+.bar h2:after {
     position: absolute;
     width: 100px;
     background-color: #1b96fe;
@@ -1059,7 +1059,7 @@ nav ul li {
 }
 
 #research  .gallery-cell {
-    width: 65%;
+    width: 60%;
 }
 
 #research -content::before {
