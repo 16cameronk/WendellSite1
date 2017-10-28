@@ -69,22 +69,10 @@ h2 {
     padding-bottom: 1rem;
     font-weight: 700;
     text-transform: none;
-    font-size: 2.0rem;
+    font-size: 1.9rem;
     color: #333;
     position: relative;
 }
-
-h7 {
-    padding-bottom: 1rem;
-    font-weight: 700;
-    text-transform: none;
-    font-size: 2.0rem;
-    color: #333;
-    line-height: 10px
-    position: relative;
-}
-
-
 
 
 h1:after {
